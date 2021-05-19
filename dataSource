@@ -1,0 +1,4 @@
+# Read Training Set
+mnist = input_data.read_data_sets("data/",one_hot=True)
+# Download address
+http://yann.lecun.com/exdb/mnist/
